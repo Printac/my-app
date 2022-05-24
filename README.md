@@ -6,7 +6,7 @@ If u wanna watch this repo you have to git clone it to your pc and run:
 ```
 $ npm install
 ```  
-and:
+then:
 ```
 $ npm start
 ```
